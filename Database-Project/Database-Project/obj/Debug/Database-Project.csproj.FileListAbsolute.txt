@@ -1,0 +1,13 @@
+C:\Users\kamal\source\repos\Database-Project\Database-Project\bin\Debug\Database.mdf
+C:\Users\kamal\source\repos\Database-Project\Database-Project\bin\Debug\Database_log.ldf
+C:\Users\kamal\source\repos\Database-Project\Database-Project\bin\Debug\Database-Project.exe.config
+C:\Users\kamal\source\repos\Database-Project\Database-Project\bin\Debug\Database-Project.exe
+C:\Users\kamal\source\repos\Database-Project\Database-Project\bin\Debug\Database-Project.pdb
+C:\Users\kamal\source\repos\Database-Project\Database-Project\obj\Debug\Database-Project.csprojAssemblyReference.cache
+C:\Users\kamal\source\repos\Database-Project\Database-Project\obj\Debug\Database_Project.Form1.resources
+C:\Users\kamal\source\repos\Database-Project\Database-Project\obj\Debug\Database_Project.Properties.Resources.resources
+C:\Users\kamal\source\repos\Database-Project\Database-Project\obj\Debug\Database-Project.csproj.GenerateResource.cache
+C:\Users\kamal\source\repos\Database-Project\Database-Project\obj\Debug\Database-Project.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\Database-Project\Database-Project\obj\Debug\Database-Project.exe
+C:\Users\kamal\source\repos\Database-Project\Database-Project\obj\Debug\Database-Project.pdb
+C:\Users\kamal\source\repos\Database-Project\Database-Project\obj\Debug\Database_Project.Form2.resources
